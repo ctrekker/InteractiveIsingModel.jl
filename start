@@ -1,0 +1,1 @@
+julia --project=. --sysimage=ising.so ising.jl
